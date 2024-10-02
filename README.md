@@ -1,4 +1,2 @@
 # new-repo
-My first repository
-
-made by sabhya thapa
+My first repository <br>made by sabhya thapa
